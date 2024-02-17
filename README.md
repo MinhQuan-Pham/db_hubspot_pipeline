@@ -11,7 +11,6 @@ This repository contains Python programs and modules designed for integrating an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -68,3 +67,8 @@ Update the `config.py` file with your specific configurations:
 PROD_API_KEY = "your_production_api_key"
 TEST_API_KEY = "your_test_api_key"
 # Add any additional configuration parameters here
+
+```
+
+## License
+This project is licensed under the MIT License.
